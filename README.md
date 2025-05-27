@@ -29,7 +29,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: BALASUBRAMANIAM L
 RegisterNumber: 212224240020
-'''python
+
 import numpy as np
 import sys
 
